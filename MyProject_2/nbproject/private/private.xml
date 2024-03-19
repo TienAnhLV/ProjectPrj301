@@ -9,6 +9,10 @@
             <file>file:/D:/PRJ_SE1835/MyProject_2/src/java/control/AboutControl.java</file>
             <file>file:/D:/PRJ_SE1835/MyProject_2/web/shoppingCart.jsp</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/D:/NetBeansProjects/Assignment_PRJ301_SE1822_HE171803/MyProject_2/MyProject_2/src/java/loginOther/loginWithGoogle/LoginGoogleHandler.java</file>
+            <file>file:/D:/NetBeansProjects/Assignment_PRJ301_SE1822_HE171803/MyProject_2/MyProject_2/src/java/loginOther/loginWithGoogle/UserGoogleDto.java</file>
+            <file>file:/D:/NetBeansProjects/Assignment_PRJ301_SE1822_HE171803/MyProject_2/MyProject_2/src/java/loginOther/loginWithGoogle/Constants.java</file>
+        </group>
     </open-files>
 </project-private>

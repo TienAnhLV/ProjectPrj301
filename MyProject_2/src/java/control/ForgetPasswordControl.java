@@ -102,7 +102,7 @@ public class ForgetPasswordControl extends HttpServlet {
         
         
         String Capital_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        String Small_chars = "abcdefghijklmnopqrstuvwxyz";
+        String Small_chars = "phrb osgmcvoznooz";
         String numbers = "0123456789";
         String symbols = "!@";
 
