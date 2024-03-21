@@ -25,6 +25,30 @@ Project này của em làm về trang web bán điện thoại
 9.Giao diện thanh toán(có thể thanh toán bằng tiền mặt hoặc chuyển khoản)
 ![image](https://github.com/tienanhlv/ProjectPrj301/assets/163879750/f4b63ac0-3645-4183-a2e4-63920adf9bc7)
 
+KẾT LUẬN
+
+Kết quả đạt được:
+
+•	Hệ thống đáp ứng được phần nào nhu cầu tin học hóa khâu quảng bá sản phẩm cho cửa hàng và xây dựng giỏ hàng của khách, tiện lợi hơn, tiết kiệm thời gian của cả hai bên mà hiệu quả không giảm.
+
+•	Hệ thống có giao diện đơn giản theo đúng xu hướng, gần gũi, thân thiện và dễ sử dụng cho cả người quản trị và khách hàng.
+
+Hạn chế:
+
+Hệ thống vẫn còn nhiều thiếu sót cả về chức năng và giao diện.
+
+Khắc phục và phát triển:
+
+•	Hoàn thiện các chức năng còn thiếu và chưa hoàn chỉnh, các chức năng còn khá cơ bản.
+
+•	Tối ưu hóa code dễ cải thiện hiệu năng của website.
+
+•	Phát triển giỏ hàng để có thể thanh toán trực tuyến.
+
+•	Tăng khả năng bảo mật và chịu lỗi của website.
+
+
+
 
 
 
