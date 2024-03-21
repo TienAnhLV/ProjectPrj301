@@ -1,5 +1,7 @@
 ZAY SHOP
+
 Project này của em làm về trang web bán điện thoại
+
 1.Giao diện trang chủ
 ![image](https://github.com/tienanhlv/ProjectPrj301/assets/163879750/3c02021a-3542-4c0d-b29b-5802e49e587d)
 2.Giao diện đăng nhập tài khoản
